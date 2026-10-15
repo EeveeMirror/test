@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "generic": [
+    {
+      "flavor": "kernelsu",
+      "kmis": [
+        "android12-5.10",
+        "android13-5.10",
+        "android13-5.15",
+        "android14-5.15",
+        "android14-6.1",
+        "android15-6.6",
+        "android16-6.12",
+        "android17-6.18"
+      ],
+      "daemon": {
+        "url": "REPLACE_WITH_YOUR_REPO_URL/kernelsu/ksud-generic-kdp",
+        "size": 6402736,
+        "sha256": "049491e2b4cc0a6c913d3920cb90b8c94c9e8ca96c0ee92818293304973bfb1b",
+        "version": "3.3.1"
+      }
+    },
+    {
+      "flavor": "kernelsu-next",
+      "kmis": [
+        "android12-5.10",
+        "android13-5.10",
+        "android13-5.15",
+        "android14-5.15",
+        "android14-6.1",
+        "android15-6.6",
+        "android16-6.12",
+        "android17-6.18"
+      ],
+      "daemon": {
+        "url": "REPLACE_WITH_YOUR_REPO_URL/kernelsu/ksud-next-generic-kdp",
+        "size": 7059592,
+        "sha256": "2771a2ae989b522b5d70f3288ad5a2f379488962d09c1fe11e13a745eba89362",
+        "version": "3.4.2"
+      }
+    },
+    {
+      "flavor": "resukisu",
+      "kmis": [
+        "android12-5.10",
+        "android13-5.10",
+        "android13-5.15",
+        "android14-5.15",
+        "android14-6.1",
+        "android15-6.6",
+        "android16-6.12",
+        "android17-6.18"
+      ],
+      "daemon": {
+        "url": "REPLACE_WITH_YOUR_REPO_URL/kernelsu/ksud-rsksu-generic-kdp",
+        "size": 6358016,
+        "sha256": "88a78e0c1cee886b37c1410347c237946f444e07287cf451ea4c980463fc0c0d",
+        "version": "3.3.1-3"
+      }
+    }
+  ]
+}
