@@ -16,7 +16,7 @@
       "daemon": {
         "url": "https://raw.githubusercontent.com/EeveeMirror/test/main/kernelsu/ksud-generic-kdp",
         "size": 6402736,
-        "sha256": "fd91350e39cdff8ad4aa5f0f73b8707e8c7ba1d6c8fe369bfe7a11b397e7c09d",
+        "sha256": "298f1092c60ee21e15c6be2b96fd68ea1eeb73060208ec6e45d75629cd7cfc05",
         "version": "3.3.1"
       }
     },
